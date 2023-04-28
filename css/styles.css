@@ -11,6 +11,7 @@ html {
 ul {
   list-style: none;
 }
+
 /* Hearder starts here */
 header {
   background-color: #fff;
@@ -26,7 +27,7 @@ header {
   animation-duration: 0.5s;
 }
 
-.logo>a {
+.logo > a {
   text-decoration: none;
   color: inherit;
 }
@@ -55,6 +56,7 @@ header {
 .nav-link:nth-child(even) {
   margin: 0 0.5em;
 }
+
 /* Header ends here */
 
 /* Headline starts here */
@@ -121,11 +123,12 @@ header {
   list-style: none;
 }
 
-.social-icons>a,
+.social-icons > a,
 img {
   text-decoration: none;
   color: #505f79;
   font-size: 1.25rem;
   padding-right: 1em;
 }
+
 /* Headline ends here */
