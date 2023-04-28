@@ -26,7 +26,7 @@ header {
   animation-duration: 0.5s;
 }
 
-.logo>a {
+.logo > a {
   text-decoration: none;
   color: inherit;
 }
@@ -117,13 +117,13 @@ header {
 .social-icons {
   display: flex;
   justify-content: space-between;
-  padding-left: 0px !important;
+  padding-left: 1px !important;
   align-items: center;
   color: #505f79;
   list-style: none;
 }
 
-.social-icons>a,
+.social-icons > a,
 img {
   text-decoration: none;
   color: #505f79;
