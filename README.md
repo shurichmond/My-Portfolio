@@ -3,14 +3,12 @@
 - [📗 Table of Contents](#-table-of-contents)
 - [📖 My Portfolio](#-my-portfolio)
   - [🛠 Built With ](#-built-with-)
-    - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
   - [💻 Getting Started ](#-getting-started-)
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
     - [Install](#install)
     - [Usage](#usage)
-    - [Run tests](#run-tests)
     - [Deployment](#deployment)
   - [👥 Authors ](#-authors-)
   - [🔭 Future Features ](#-future-features-)
@@ -25,8 +23,6 @@
 **My Portfolio** is a project build with the knowledge of Html and CSS.
 
 ## 🛠 Built With <a name="HTML&CSS"></a>
-
-### Tech Stack <a name="HTML,CSS and LINTERS"></a>
 
 <details>
 ### Key Features <a name="key-features"></a>
@@ -51,9 +47,9 @@
 </details>
 
 KEY Features
-- HTML
-- CSS
-- Linters
+- Portfolio Website to showcase my projects
+- Connect with Employers 
+
 
 
 ## 💻 Getting Started <a name="https://github.com/shurichmond/My-Portfolio"></a>
@@ -82,15 +78,6 @@ Install this project with:
 
 To run the project, execute the following command:
 
-### Run tests
-
-To run tests, run the following command:
-
--npm init -y
--npm install --save-dev hint@7.x
--npx hint 
--npm install --save-dev stylelint@13.x stylelint-scss@3.x stylelint-config-standard@21.x stylelint-csstree-validator@1.x
--npx stylelint "**/*.{css,scss}"
 
 ### Deployment
 
