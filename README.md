@@ -5,7 +5,6 @@
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
-  - [🚀 Live Demo ](#-live-demo-)
   - [💻 Getting Started ](#-getting-started-)
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
@@ -33,14 +32,14 @@
 ### Key Features <a name="key-features"></a>
   <summary>HTML</summary>
   <ul>
-    <li><a href="https:w3schools.com">HTML</a></li>
+    <li><a href="https://w3schools.com">HTML</a></li>
   </ul>
 </details>
 
 <details>
   <summary>CSS</summary>
   <ul>
-    <li><a href="https:w3schools.com">CSS</a></li>
+    <li><a href="https://w3schools.com">CSS</a></li>
   </ul>
 </details>
 
@@ -51,83 +50,53 @@
   </ul>
 </details>
 
-## 💻 Getting Started <a name="getting-started"></a>
+KEY Features
+- HTML
+- CSS
+- Linters
+
+
+## 💻 Getting Started <a name="https://github.com/shurichmond/My-Portfolio"></a>
 
 To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
 In order to run this project you need:
-
-<!--
-Example command:
-
-```sh
- gem install rails
-```
- -->
+ 
+ -VS code, Node.js and Git
 
 ### Setup
 
 Clone this repository to your desired folder:
 
-<!--
-Example commands:
-
-```sh
-  cd my-folder
-  git clone git@github.com:myaccount/my-project.git
-```
---->
+-git clone https://github.com/shurichmond/My-Portfolio.git
 
 ### Install
 
 Install this project with:
 
-<!--
-Example command:
-
-```sh
-  cd my-project
-  gem install
-```
---->
+  `npm install`
 
 ### Usage
 
 To run the project, execute the following command:
 
-<!--
-Example command:
-
-```sh
-  rails server
-```
---->
-
 ### Run tests
 
 To run tests, run the following command:
 
-<!--
-Example command:
-
-```sh
-  bin/rails test test/models/article_test.rb
-```
---->
+-npm init -y
+-npm install --save-dev hint@7.x
+-npx hint 
+-npm install --save-dev stylelint@13.x stylelint-scss@3.x stylelint-config-standard@21.x stylelint-csstree-validator@1.x
+-npx stylelint "**/*.{css,scss}"
 
 ### Deployment
 
 You can deploy this project using:
 
-<!--
-Example:
-
-```sh
-
-```
- -->
+github
 
 ## 👥 Authors <a name="authors"></a>
 
