@@ -1,0 +1,56 @@
+/* About Section Starts Here */
+.about {
+  background-color: #fff;
+  border-radius: 0 8em 0 0;
+  margin: 8em 0 0 0;
+}
+
+.headline-skill-container {
+  padding: 5em 7% 0 7%;
+}
+
+.about-heading-small {
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+}
+
+.about-skills-container {
+  display: flex;
+  flex-direction: column;
+  padding: 2em 1em;
+  width: 100%;
+}
+
+.about-skills-container > hr {
+  height: 2px;
+  background: #dfe1e6;
+  border: none;
+}
+
+.about-skill-heading {
+  display: flex;
+  justify-content: space-between;
+  padding: 2em 1em 2em 0;
+}
+
+.about-skill-body {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  background-color: #f7f7f9;
+  border-radius: 0.5em;
+  margin: 0.5em 0;
+  padding: 0.5em;
+}
+
+.about-skill-text {
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  padding-left: 1em;
+  line-height: 20px;
+  color: #253858;
+}

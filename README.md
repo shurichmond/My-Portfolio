@@ -1,14 +1,17 @@
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 My Portfolio](#-my-portfolio)
+- [📖 Super Portfolio](#-super-portfolio)
   - [🛠 Built With ](#-built-with-)
+    - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
+  - [🚀 Live Demo ](#-live-demo-)
   - [💻 Getting Started ](#-getting-started-)
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
     - [Install](#install)
     - [Usage](#usage)
+    - [Run tests](#run-tests)
     - [Deployment](#deployment)
   - [👥 Authors ](#-authors-)
   - [🔭 Future Features ](#-future-features-)
@@ -17,25 +20,27 @@
   - [🙏 Acknowledgments ](#-acknowledgments-)
   - [📝 License ](#-license-)
 
-# 📖 My Portfolio<a name="Creating Personal Portfolio project "></a>
+# 📖 Super Portfolio<a name="Creating Personal Portfolio project "></a>
 
 
-**My Portfolio** is a project build with the knowledge of Html and CSS.
+**Super Portfolio** is a project build with the knowledge of Html and CSS that has a header.
 
 ## 🛠 Built With <a name="HTML&CSS"></a>
+
+### Tech Stack <a name="HTML,CSS and LINTERS"></a>
 
 <details>
 ### Key Features <a name="key-features"></a>
   <summary>HTML</summary>
   <ul>
-    <li><a href="https://w3schools.com">HTML</a></li>
+    <li><a href="https:w3schools.com">HTML</a></li>
   </ul>
 </details>
 
 <details>
   <summary>CSS</summary>
   <ul>
-    <li><a href="https://w3schools.com">CSS</a></li>
+    <li><a href="https:w3schools.com">CSS</a></li>
   </ul>
 </details>
 
@@ -46,44 +51,87 @@
   </ul>
 </details>
 
-KEY Features
-- Portfolio Website to showcase my projects
-- Connect with Employers 
+## 🚀 Live Demo <a name="live-demo"></a>
 
+- [NOW AVAILABLE AT](https://shurichmond.github.io/Super-Portfolio/)
 
-
-## 💻 Getting Started <a name="https://github.com/shurichmond/My-Portfolio"></a>
+## 💻 Getting Started <a name="getting-started"></a>
 
 To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
 In order to run this project you need:
- 
- -VS code, Node.js and Git
+
+<!--
+Example command:
+
+```sh
+ gem install rails
+```
+ -->
 
 ### Setup
 
 Clone this repository to your desired folder:
 
--git clone https://github.com/shurichmond/My-Portfolio.git
+<!--
+Example commands:
+
+```sh
+  cd my-folder
+  git clone git@github.com:myaccount/my-project.git
+```
+--->
 
 ### Install
 
 Install this project with:
 
-  `npm install`
+<!--
+Example command:
+
+```sh
+  cd my-project
+  gem install
+```
+--->
 
 ### Usage
 
 To run the project, execute the following command:
 
+<!--
+Example command:
+
+```sh
+  rails server
+```
+--->
+
+### Run tests
+
+To run tests, run the following command:
+
+<!--
+Example command:
+
+```sh
+  bin/rails test test/models/article_test.rb
+```
+--->
 
 ### Deployment
 
 You can deploy this project using:
 
-github
+<!--
+Example:
+
+```sh
+
+```
+ -->
 
 ## 👥 Authors <a name="authors"></a>
 
@@ -93,6 +141,11 @@ github
 - Twitter: [@twitterhandle](https://twitter.com/shurichmond85)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/shu-nfortayong-richmond-10a28620a/)
 
+👤 **Author2** Muhammad Usman Aslam
+
+- GitHub: [@githubhandle](https://github.com/MuhammadUsanAslam)
+- Twitter: [@twitterhandle](https://twitter.com/M_Usman_Aslam)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/muhammad-usman-aslam)
 
 <!-- FUTURE FEATURES -->
 
