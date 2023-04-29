@@ -1,0 +1,134 @@
+body {
+  position: relative;
+  background-color: #f7f7f9;
+}
+
+html {
+  font-family: 'Poppins', sans-serif;
+}
+
+ul {
+  list-style: none;
+}
+
+/* Hearder starts here */
+header {
+  background-color: #fff;
+  color: #6070ff;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1em 7%;
+}
+
+.logo {
+  animation-name: logo-animation;
+  animation-duration: 0.5s;
+}
+
+.logo > a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.nav-menu-button {
+  display: inline;
+  cursor: pointer;
+}
+
+.nav-links {
+  display: none;
+  color: #344563;
+  font-weight: 600;
+}
+
+.nav-links a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.nav-link {
+  cursor: pointer;
+  padding: 0.625em 0.75em;
+}
+
+.nav-link:nth-child(even) {
+  margin: 0 0.5em;
+}
+
+/* Header ends here */
+
+/* Headline starts here */
+
+.headline-main {
+  max-height: 800px;
+  min-height: 550px;
+  width: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0 7%;
+  border-radius: 0 0 0 4em;
+  background-color: #fff;
+  background-image: url(../Img/headline-background-mobile.png);
+  background-size: 100%;
+  background-position-x: center;
+  background-repeat: no-repeat;
+}
+
+.headline {
+  margin: 10px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  height: 100%;
+}
+
+.headline-heading {
+  margin: 10px 0;
+  display: flex;
+}
+
+.heading-large {
+  color: #172b4d;
+  font-weight: 700;
+  font-size: 2.5rem;
+  line-height: 52px;
+}
+
+.headline-paragraph {
+  margin: 10px 0;
+}
+
+.paragraph {
+  color: #172b4d;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+.headline-sm-suport {
+  margin: 10px 0;
+  color: #7f8cff;
+  font-weight: 500;
+}
+
+.social-icons {
+  display: flex;
+  justify-content: space-between;
+  padding-left: 1px !important;
+  align-items: center;
+  color: #505f79;
+  list-style: none;
+}
+
+.social-icons > a,
+img {
+  text-decoration: none;
+  color: #505f79;
+  font-size: 1.25rem;
+  padding-right: 1em;
+}
+
+/* Headline ends here */
